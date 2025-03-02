@@ -27,7 +27,7 @@ VITE_WEATHER_API_KEY=YOUR_KEY
 Finally clone this repository, install dependencies and run the local server
 
 ```bash
-git clone https://github.com/se-ashishgupta/Whether_DashBoard.git
+git clone https://github.com/se-surabhianand/Whether-Dashboard
 ```
 
 ```bash
